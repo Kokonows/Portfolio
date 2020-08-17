@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Katie Okonowski Portfolio</title>
+	<link rel="stylesheet" href="Portfolio.css"> 
+  </head>
+  <body>
+  <header>
+  	</header>
+
+	<div>
+	  <h1 class="topTitle"> Katherine (Katie) Okonowski Portfolio </h1>
+	</div>
+    <nav class="navigation">
+	<!--Add a href links to below-->
+    <ul>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html"> Main Portfolio Page </a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/ScottishTerrierKennelsIndex.html">Final Project</a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/Okonowski-PRACTICE.html">Table Example</a></li>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/Images-of-Kresge-Library.html">Images and Thumbnail Examples</a></li>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/Forms.html">Form Example</a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/Image-Map-Generator.html">Map Example</a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/MadLibs.html"> Mad Lib Inputting</a></li> 
+    </ul>
+	</nav>	
+	<br>
+	<p> Welcome to my portfolio! Click on the links above to sample some of the web development skills I have learned.</p>
+	<br>
+	<footer>
+		<p> Katie Okonowski, MLIS, JD </p>
+		<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a>
+		<p> Site last updated:
+       <script> document.write(document.lastModified)</script> 
+	   </p>
+	</footer>
+	</body>
+	</html> 
