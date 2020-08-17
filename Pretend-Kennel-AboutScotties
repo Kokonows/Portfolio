@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>About Scotties</title>
+	<link rel="stylesheet" href="AboutScotties.css">
+  </head>
+  <body>
+  <header>
+  <h1 class="topTitle"> Scottish Terrier Kennels </h1>
+  </header>
+    <nav class="navigation">
+    <ul>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/ScottishTerrierKennelsIndex.html"> Main Page </a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/AboutScotties.html">About Scotties</a></li>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/AboutOurKennel.html">About Our Kennel</a></li>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/UpcomingLitters.html">Upcoming Litters</a></li>
+      <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/UpcomingShows1.html">Upcoming Shows</a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/ScottiesIntheMedia.html">Scotties in the Media</a></li>
+	  <li><a HREF="http://141.217.97.220/av6620/inf7420/FinalProject/OtherHelpfulLinks.html">Other Helpful Links</a></li>
+      <li class="donate"><a HREF="https://stca.biz/about-the-stca/ways-to-help/"> Donate</a></li>
+    </ul>
+	</nav>
+	<div class="Photo">
+	<img src="Scottish_Terrier_Sire.jpg" alt="1915 photo of Scottie">
+	<p> Ch. Bapton Norman, a popular sire from 1914. Public domain. </p>
+	<!--Add photograph on top!--> 
+	</div>
+	<div class="Explanation">
+	<!--Explanation paragraphs, center them with CSS-->
+	
+	<h2> History </h2>
+	
+	<p>
+	In the 19th century, the Highlands of Scotland, including the Isle of Skye, were abundant with terriers originally known by the generic term 
+	"short-haired terriers" or "little Skye Terriers." Towards the end of the 19th century, it was decided to separate these Scottish terriers 
+	and develop pure bloodlines and specific breeds. Originally, the breeds were separated into two categories: Dandie Dinmont Terriers and Skye Terriers 
+	(not the Skye Terrier known today, but a generic name for a large group of terriers with differing traits all said to originate from the Isle of Skye). 
+	The Birmingham England dog show of 1860 was the first to offer classes for these groups of terriers. They continued to be exhibited in generic groups 
+	for several years and these groups included the ancestors of today's Scottish Terrier. Recorded history and the initial development of the breed started 
+	in the late 1870s with the development of dog shows. The exhibition and judging of dogs required comparison to a breed standard and thus the appearance and 
+	temperament of the Scottie was written down for the first time. Eventually, the Skye Terriers were further divided into what are known today as the 
+	Scottish Terrier, Skye Terrier, West Highland White Terrier and Cairn Terrier.
+	</p><br>
+	
+	<h2> Temperament </h2>
+	<p> 
+	The well-known Scottie silhouette is that of a short-legged but substantial terrier with distinctive furnishings at the beard, legs, and lower body. 
+	The wiry topcoat and soft, dense undercoat coat can be black, wheaten yellow, or a brindle-stripe pattern. Bright, piercing eyes, and erect ears and tail, convey keen alertness—a hallmark of Britain’s terrier breeds.
+	The Scottie working style has been described as efficient and businesslike, and their aloofness toward strangers makes them excellent watchdogs. 
+	Their hunting instinct remains strong, which can complicate life for the neighbor’s cat, and Scotties are known to be cantankerous around other dogs. 
+	This bold and clever Scotsman enjoys brisk walks and upbeat play.
+	</p> <br>
+	
+	<h2> Health </h2>
+	<p> Scotties are fairly robust purebred dogs, but there are a few conditions to watch out for. Always contact your breeder to inform them of 
+	health issues to ensure that the breeder can note any genetic issues for future breeding.
+	A reputable breeder will always let you know about potential genetic conditions and what to watch out for in their dogs. </p>
+	
+	<h3> Scotty Cramp </h3>
+	<p> The term "Scotty cramp" refers to a neurological condition that causes affect Scotties to lose peripheral vision if over-stressed, 
+	and create an affected limb gait. The front legs are pushed out to the side, the back arches and the rear legs overflex, causing the dog to 
+	fall should it be moving at speed. The condition is not seizure related, and the dog remains conscious throughout the event, with symptoms abating 
+	once the cause of the stress has been removed.  While breeders have managed to mostly breed out this condition, and take careful view of genetic lines, 
+	this condition is still a possibility.  </p>
+	
+	<h3> Von Willebrand's disease </h3>
+	<p> Von Willebrand's disease is a hereditary bleeding disorder found in both dogs and humans. It is caused by a lack of von Willebrand factor which plays a role in the clotting process of blood. This can cause abnormal platelet function and prolonged bleeding times. Affected dogs can be prone to nose bleeds, and increased bleeding following trauma or surgery. There are three types of this condition with Type I being the most common, 
+	while Type II and III being rarer, but more severe. Type I von Willebrand's disease is relatively common in the Scottish Terrier.</p>
+	
+	<h3> Bladder cancer </h3>
+	<p> Research has suggested that Scottish Terriers are 20 times more likely to get bladder cancer than other breeds and the most common kind of bladder cancer is 
+	transitional cell carcinoma of the bladder (TCC). Symptoms of TCC are blood in the urine, straining to urinate, and frequent urination—although owners noticing any of these symptoms should also be aware that the same symptoms may also be indicative of a urinary tract infection.
+    Luckily, some treatments are available.  The most common and effective form of treatment for TCC is Piroxicam, a non-steroidal anti-inflammatory drug.</p><br>
+	
+	<h2> Is a Scottie right for you?</h2>
+	<p> You should always look at typical breed temperament and the type of temperament a kennel tries to breed 
+	when researching what type of dog is right for you.  Scottish Terriers are known to be loyal 
+	to their families but may be aloof with strangers and impatient with children, although early exposure can be helpful.  Our kennel strives to ensure that
+	puppies are handled early and often, and to expose the puppies to multiple children in different settings to ensure they are good family pets.
+	</p>
+	
+	<p>
+	Scotties are diggers and have a strong prey drive, and their independent nature can make them 'forget' to hear commands 
+	if they just don't feel like it or get distracted!  Training a terrier can take much longer than an owner anticipated, and it is important to remember the 
+	Scottie - like all dogs - will not respond kindly to negative feedback. In addition, Scotties are very confident dogs - sometimes overconfident - which can lead
+	them into trouble! The best way to ensure a good relationship with your Scottish Terrier is to enroll in obedience classes early and practice often.
+	</p>
+	
+	<p>
+	Despite their smaller statute and short legs, exercise is important to the Scottie. Long walks are a must, and outdoor time essential to let him let down his hair.
+	We do not recommend bringing your dog to a dog park - you just don't know the level of socialization other strangers' dogs have had.  However, having a meetup with a selected
+	screened group of dogs that have been previously introduced to your pup can be beneficial. DO NOT socialize your dog with other dogs until he has completed his vaccinations. 
+	</p>
+	
+	<p> 
+	Scotties do not shed very much, but we cannot make the claim they are hypoallergenic. 
+	Scottish Terriers' distinctive outlines are the product of grooming.  The Scottie has two coats - an outer and an inner one - and the inner one must be handstripped
+	regularly.  Find a groomer willing to handstrip or you can seek out how to do it yourself.  Since they are diggers, be prepared to give them a bath on the regular! 
+	</p><br>
+	</div>
+	<!--Get an email link-->
+	<footer style="text-align:center;">
+		<a href="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html">Click here to return to Katie's Main Page</a>
+		<p> Katie Okonowski, MLIS, JD </p>
+		<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a>
+		<p>Site last updated:
+		<script> document.write(document.lastModified)</script> 
+		</p> 
+	</footer> 
+  </body>
+</html>
