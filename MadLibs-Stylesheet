@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-size: 12pt;
+  font-family: Times New Roman, Arial, Helvetica, sans-serif;
+  color: blue;
+  line-height: 14pt;
+}
+
+title {
+	text-align: center;
+	font-size: 18 pt;
+	font-family: Times New Roman, Arial, Helvetica, sans-serif;
+	color: blue;
+}
