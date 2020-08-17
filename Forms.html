@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Guest Book</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1">
+    <style>
+      fieldset {
+         width: 75%;
+         border: 2px solid #9435d4;
+      }
+      legend {
+         font-weight: bold;
+         font-size: 125%;
+      }
+      label.question  {
+         width: 225px;
+         float: left;
+         text-align: left;
+         font-weight: bold;
+      }
+      span.question  {
+         font-weight: bold;
+      }
+      input, textarea, select, button {
+         border: 1px solid #000;
+         padding: 3px;
+      }
+      #buttons {
+         margin-top: 12px;
+      }
+      #errors {
+        color: red;
+        font-weight: bold;
+        font-size: larger;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Website Survey</h1>
+    <form name="gbForm" method="post" action="URL_to_script">
+      <output id="errors"></output>
+      <fieldset>
+        <legend>Personal Information</legend>
+        <p>
+          <label class="question" for="the_name">
+          What is your name?</label>
+          <input type="text" id="the_name" name="the_name"
+                 placeholder="Enter your full name."
+                 size="50">
+        </p>
+        <p>
+          <label class="question" for="the_email">What is your email
+          address?</label>
+          <input type="email" id="the_email" name="the_email"
+                 placeholder="Please use a real one!"
+                 size="50" required>
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend>Survey Questions</legend>
+        <p>
+          <span class="question">Please check all that apply:</span><br>
+          <input type="checkbox" id="like_it" name="some_statements[]"
+                 value="I really like your web site.">
+          <label for="like_it">I really like your web site.</label><br>
+          <input type="checkbox" id="needs_work" name="some_statements[]"
+                 value="This website needs work.">
+          <label for="needs_work">This website needs work.</label><br>
+          <input type="checkbox" id="hate_it" name="some_statements[]"
+                 value="I hate this website.">
+          <label for="hate_it">I hate this website.</label><br>
+          <input type="checkbox" id="no_taste" name="some_statements[]"
+                 value="I don't have a need for this website.">
+          <label for="no_taste">I don't have a need for this website.</label>
+        </p>
+        <p>
+          <label for="choose_scale"><span class="question">Please
+          rate my site on a scale of 1 (poor) to 10
+          (awesome):</span></label>
+          <input type="number" id="choose_scale" name="choose_scale"
+          min="1" max="10" step="1" value="5">
+        </p>
+        <p>
+          <span class="question">Please choose the one thing you love
+          Best about my web site:</span><br>
+          <input type="radio" id="the_title" name="best_thing"
+                 value="title">
+          <label for="the_title">The title</label><br>
+          <input type="radio" id="the_formatting" name="best_thing"
+                 value="formatting">
+          <label for="the_formatting">The formatting, of course</label><br>
+          <input type="radio" id="the_content" name="best_thing"
+                 value="content">
+          <label for="the_content">The content, by far</label><br>
+        </p>
+        <p>
+          <label for="the_worst"><span class="question">
+          Please indicate the one thing I could improve about my web site:
+          </span></label><br>
+          <input type="text" id="the_worst" name="the_worst"
+                 placeholder="There's nothing bad, is there?"
+                 list="listOfBadChoices" size="50">
+        </p>
+        <p>
+          <label for="how_improve"><span class="question">What else
+          would you like to see on my web site?</span></label><br>
+          <select id="how_improve" name="how_improve" size="4" multiple>
+            <optgroup label="Preferred">
+              <option value="Nothing. It's perfect.">Nothing. It's
+              perfect.</option>
+            </optgroup>
+            <optgroup label="Likely">
+              <option value="Work on your CSS and design for heaven's sake!">Work on your CSS and design for heaven's 
+			  sake!.</option>
+              <option value="More about your background.">More about your background.</option>
+            </optgroup>
+            <optgroup label="Unlikely">
+              <option value="You need to destroy this website immediately.">You need to destroy this website immediately.
+              </option>
+            </optgroup>
+          </select>
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend>Free for All!</legend>
+        <p>
+          <label for="message"><span class="question">Feel free to send
+          more praise, gift offers, etc.:</span></label>
+          <textarea id="message" name="message" rows="7" cols="55">     
+          </textarea>
+        </p>
+      </fieldset>
+      <div id="buttons">
+      <input type="submit" value="Click Here to Submit"> or
+      <input type="reset" value="Erase and Start Over"> or
+      <button type="button" id="standardValues">Fill in Standard
+      Values</button>
+      </div>
+    </form>
+    <datalist id="listOfBadChoices">
+      <option value="nothing"></option>
+      <option value="nada"></option>
+      <option value="zip"></option>
+      <option value="zilch"></option>
+      <option value="I can't think of anything"></option>
+    </datalist>
+	
+	<footer style="text-align:center;">
+	<a href="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html">Click here to return to Katie's Main Page</a>
+	<p> Katie Okonowski, MLIS, JD </p>
+	<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a> 
+	</footer>
+  </body>
+</html>
