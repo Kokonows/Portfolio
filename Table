@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Student Schedule</title>
+	<style>
+      table, tr, th, td {
+         text-align: center;
+		 border: 3px solid black;
+         border-collapse: collapse;
+         padding: 3px;
+      }
+    </style>
+  </head>
+  <body>
+  <h1 style = "font-family: Arial; font-weight: bold; text-align: center;">Sample Student Schedule</h1>
+    <table style = "margin-left:auto; margin-right:auto;">   
+      <tr>
+        <th style="width: 35px;"></th>
+		<th style="width: 35px; font-family: Arial;">Monday</th>
+        <th style="width: 35px; font-family: Arial;">Tuesday</th>
+        <th style="width: 35px; font-family: Arial;">WedNESDAY</th>
+        <th style="width: 35px; font-family: Arial;">THURSDAY</th>
+		<th style="width: 35px; font-family: Arial;">FRIDAY</th>
+      </tr>
+      <tr>
+        <td style="font-family: Arial;">Week1</td>
+        <td rowspan="3">Open</td>
+        <td>Art</td>
+        <td>Art</td>
+		<td>Art</td>
+		<td style="color: darkblue;">Art display </td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial;">Week2</td>
+        <td>Music</td>
+        <td>Music</td>
+		<td rowspan="3">Open</td>
+		<td>Music</td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial;">Week3</td>
+		<td>Dance</td>
+        <td style="color: red;">Dance recital</td>
+		<td>Dance</td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial;">Week4</td>
+        <td>Theater</td>
+        <td>Phys Ed</td>
+		<td>Phys Ed</td>
+		<td>Phys Ed</td>
+      </tr>
+      <tr>
+        <td style="font-family: Arial;">Week5</td>
+        <td style = "color: green">Theater Event</td>
+        <td>Speech</td>
+        <td>Theater</td>
+		<td>Speech</td>
+		<td>Theater</td>
+      </tr>
+    </table>
+	<br>
+	<footer style="text-align:center;">
+		<a href="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html">Click here to return to Katie's Main Page</a>
+		<p> Katie Okonowski, MLIS, JD </p>
+		<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a>
+	</footer>
+  </body>
+</html>
