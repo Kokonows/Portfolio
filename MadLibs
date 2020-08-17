@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<title> Mad Libs </title>
+	<link rel="stylesheet" href="MadLibsStyleSheet.css">
+	</head>
+	<body>
+	<script>
+		name = window.prompt("What's your name?",'');
+		adjective = window.prompt("Give me an adjective.",'');
+		person = window.prompt("Give me an person's name.",'');
+		color = window.prompt("Give me a color.",'');
+		animal = window.prompt("Give me an animal.",'');
+		document.write("<center><h1>" + name + "'s Custom Mad Lib </center>");
+		document.write("<h3> It was a " + adjective + " kind of day when ");
+		document.write(person + " walked out into the street.");
+		document.write(" The sky was a deep " + color + " and " + person);
+		document.write(" was walking his new pet " + animal + ".");
+	</script>
+	<br>
+	<br>
+	<br>
+	<br>
+	<footer style="text-align:center;">
+	<a href="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html">Click here to return to Katie's Main Page</a>
+	<p> Katie Okonowski, MLIS, JD </p>
+	<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a>
+	</footer>
+	</body>
+	</html>
+	
