@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Images of Kresge Library</title>
+</head>
+
+<body>
+      <header>
+        <h1> Images of Kresge Library</h1>
+      </header>
+      <div class="thumbnail">
+        <a href="https://www.youtube.com/watch?v=zR9_GnLiFZ8/"><img src="WayneStateLibrarySystem.jpg" alt="thumbnail link" style="width:120px; height:120px;"></a>
+		<p style="font-size:10pt;">
+        <br>Click image above for video. Copyright for image to Wayne State University.
+		</p>
+		</div>
+	<div id="list">
+	<h2>Image listings </h2>
+    <ul>
+      <li><a href="#image1">Image 1: Original Size</a></li>
+      <li><a href="#image2">Image 2: Half Original Size</a></li>
+      <li><a href="#image3">Image 3: Twice Original Size</a></li>
+    </ul>
+	</div>
+	
+  <div id="image1">
+    <h2>Image 1</h2>
+    <p><img src="original-size-library-photo-purdy-kresge.jpg" alt="original size photo of the library"></p>
+	</div>
+	
+	<div id ="image2">
+	<h2>Image 2</h2>
+	<p><img src="half-size-library-photo-purdy-kresge.jpg" alt="half size photo of the library"></p>
+	</div>
+	
+	<div id="image3">
+	<h2> Image 3 </h2>
+	<p><img src="double-size-library-photo-purdy-kresge.jpg" alt="Double sized photo of the library"></p>
+	</div>
+
+	<table>
+		<tr>		
+			<th><img src="half-size-library-photo-purdy-kresge.jpg" alt="half size photo of the library" style="width:500px; height:200px;"></th>
+			<th><img src="half-size-library-photo-purdy-kresge.jpg" alt="half size photo of the library" style="width:500px; height:200px;"></th>
+			<th><img src="half-size-library-photo-purdy-kresge.jpg" alt="half size photo of the library" style="width:500px; height:200px;"></th>
+			<th><img src="half-size-library-photo-purdy-kresge.jpg" alt="half size photo of the library" style="width:500px; height:200px;"></th>
+		</tr>
+	</table>
+	
+	<footer style="text-align:center;">
+	<a href="http://141.217.97.220/av6620/inf7420/OkonowskiPortfolioIndex.html">Click here to return to Katie's Main Page</a>
+	<p> Katie Okonowski, MLIS, JD </p>
+	<a href="mailto:kokonows@gmail.com">kokonows@gmail.com</a>
+	</footer>
+</body>
+</html>
