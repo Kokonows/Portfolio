@@ -1,0 +1,85 @@
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+  color: white;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  margin: auto;
+  text-decoration: none;
+}
+
+li: last-child: {
+	border-right: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+body {
+	font-family: Lato; Celtic; Times New Roman; Arial;
+	background-color: white;
+	margin: 25px;
+	padding: 10px 25px 10px 25px;
+	text-align: center;
+	}
+
+h1.topTitle {
+		color: #425af5;
+		background-color: #22223;
+		font-family: Lato; Celtic; Times New Roman; Arial;
+		text-align: center;
+	}
+h1.title {
+		color: #425af5;
+		background-color: #22223;
+		font-family: Lato; Celtic; Times New Roman; Arial;
+		text-align: center;
+		font-size: 24pt;
+		font-style: bold;
+	}
+h2 {
+	text-align: center;
+	font-color: blue;
+}
+p.blurb {
+	border-style: solid;
+	border-color: blue;
+	margin: 50px;
+	padding: 50px;
+	text-align: center;
+	text-size: 14pt;
+	}
+
+img {
+		width: 245px; 
+		height: 325px;
+		border-color: black;
+		border-style: solid;
+		border-width: 2px;
+		margin-right: 5px;
+		margin-left: 5px;
+}
+
+	table, tr, th, td {
+         text-align: center;
+		 border: 3px solid black;
+         border-collapse: collapse;
+         padding: 3px;
+      }
+	
